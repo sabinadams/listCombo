@@ -1,0 +1,3 @@
+1) If you don't already have it, install NodeJS from here: https://nodejs.org/en/download/
+2) Name the file you want combined list.txt and place it in this folder.
+3) Open the your terminal, cd in to this folder, and run "node combo" 
