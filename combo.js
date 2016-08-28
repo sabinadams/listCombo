@@ -14,7 +14,7 @@ var rd = readline.createInterface({
 //Function that fires each time a line is read
 rd.on('line', function(line) {
 
-    var output = line.substring(line.indexOf(":") + 1, line.length);
+    var output = line.substring(line.indexOf(":") + 2, line.length);
 
     output += (line.substring(0, line.indexOf(":")).toLowerCase() == "password") ? '\n' :':';
 
