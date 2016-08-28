@@ -2,6 +2,6 @@
 
 2) Name the file you want combined list.txt and place it in this folder, or just copy and paste your list
    in to the existing list.txt file.
-   
-3) Open the your terminal, cd in to this folder, and run "node combo". A new file will be generated called result.txt
+
+3) Open your terminal, cd in to this folder, and run "node combo". A new file will be generated called result.txt
    containing your combined list.
